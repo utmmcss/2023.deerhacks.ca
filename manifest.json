@@ -1,0 +1,19 @@
+{
+  "name": "DeerHacks",
+  "icons": [
+    {
+      "src": "https://deerhacks.ca/assets/img/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "119x150",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://deerhacks.ca/assets/img/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "119x150",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}
